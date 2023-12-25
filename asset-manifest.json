@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/bootstrap-react-project/static/css/main.403e2cd9.css",
+    "main.js": "/bootstrap-react-project/static/js/main.fcc26564.js",
+    "static/js/787.861e35b3.chunk.js": "/bootstrap-react-project/static/js/787.861e35b3.chunk.js",
+    "static/media/img6.webp": "/bootstrap-react-project/static/media/img6.977e954abc21fd94a1c3.webp",
+    "static/media/img-hero2.webp": "/bootstrap-react-project/static/media/img-hero2.049cb61572378adda56b.webp",
+    "static/media/img5.webp": "/bootstrap-react-project/static/media/img5.8d0f44ff615306452198.webp",
+    "static/media/img-hero1.webp": "/bootstrap-react-project/static/media/img-hero1.7832a07b7aec992d155a.webp",
+    "static/media/bg-testimonial.webp": "/bootstrap-react-project/static/media/bg-testimonial.649040106162ab092105.webp",
+    "static/media/img3.webp": "/bootstrap-react-project/static/media/img3.253fd77ee1db94c6ee32.webp",
+    "static/media/img-hero3.webp": "/bootstrap-react-project/static/media/img-hero3.a694bcee23be0500bfc7.webp",
+    "static/media/img8.webp": "/bootstrap-react-project/static/media/img8.d1747063946ba2103dc3.webp",
+    "static/media/img9.webp": "/bootstrap-react-project/static/media/img9.028fab57855fd1902b5e.webp",
+    "static/media/img4.webp": "/bootstrap-react-project/static/media/img4.0776a96aa0796301b9de.webp",
+    "static/media/blog3.webp": "/bootstrap-react-project/static/media/blog3.3e6690428529c4546d3a.webp",
+    "static/media/img7.webp": "/bootstrap-react-project/static/media/img7.0f6a2a9eca1f96526e6b.webp",
+    "static/media/blog2.webp": "/bootstrap-react-project/static/media/blog2.c9e96d63745f95a18bb3.webp",
+    "static/media/img2.webp": "/bootstrap-react-project/static/media/img2.240c50eb1f78294087ae.webp",
+    "static/media/blog1.webp": "/bootstrap-react-project/static/media/blog1.2b6f89f8c9da2d6b1686.webp",
+    "static/media/img1.webp": "/bootstrap-react-project/static/media/img1.3c5046e77494f59e9354.webp",
+    "static/media/team2.webp": "/bootstrap-react-project/static/media/team2.6d271a4b417ef711dec0.webp",
+    "static/media/team5.webp": "/bootstrap-react-project/static/media/team5.244d2d8ecc18074234f8.webp",
+    "static/media/team6.webp": "/bootstrap-react-project/static/media/team6.2b6bcc7211808585c567.webp",
+    "static/media/team9.webp": "/bootstrap-react-project/static/media/team9.a0ded984b2baadce69d0.webp",
+    "static/media/team1.webp": "/bootstrap-react-project/static/media/team1.7f7cc4ed249ce0b63cf9.webp",
+    "static/media/team4.webp": "/bootstrap-react-project/static/media/team4.49efbfddc24c8e2efa9d.webp",
+    "static/media/team7.webp": "/bootstrap-react-project/static/media/team7.d5a16bc90fbfd75281ac.webp",
+    "static/media/team3.webp": "/bootstrap-react-project/static/media/team3.8a6a5c0e475dde6367c0.webp",
+    "static/media/team8.webp": "/bootstrap-react-project/static/media/team8.32478eb4e658c076bb3a.webp",
+    "index.html": "/bootstrap-react-project/index.html",
+    "main.403e2cd9.css.map": "/bootstrap-react-project/static/css/main.403e2cd9.css.map",
+    "main.fcc26564.js.map": "/bootstrap-react-project/static/js/main.fcc26564.js.map",
+    "787.861e35b3.chunk.js.map": "/bootstrap-react-project/static/js/787.861e35b3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.403e2cd9.css",
+    "static/js/main.fcc26564.js"
+  ]
+}
